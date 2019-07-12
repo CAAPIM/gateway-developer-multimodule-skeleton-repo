@@ -1,7 +1,9 @@
 # About
-This is a skeleton repository that you can use as a starting point for your gateway projects.
+This is a skeleton repository that you can use as a starting point for your Gateway projects that utilizes multiple modules.
 
-In order to use this as a starting point for your projects, follow the instruction guide: [Multi Module Gateway Setup](https://github.com/CAAPIM/gateway-developer-multimodule-skeleton-repo/wiki/1.-Getting-Started-with-the-Multiple-Module-Gateway-Developer-Repository)
+To make use of the Gateway Developer plugin, your Gateway project should be structured like a typical Gradle project like the one shown here, which requires two configuration files - build.gradle and settings.gradle.
+
+Learn how to set up your multi-module Gateway solution by following the instructions in this repository's wiki: [Multi Module Gateway Setup](https://github.com/CAAPIM/gateway-developer-multimodule-skeleton-repo/wiki/1.-Getting-Started-with-the-Multiple-Module-Gateway-Developer-Repository).
 
 # Giving Back
 ## How You Can Contribute
